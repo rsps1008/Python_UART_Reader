@@ -1,4 +1,4 @@
-# Python_UART_Reader
+# Python_UART_Reader_updata_MySQL
 Use python to reod the UART data from any IOT device.  
 Also can upload data to the MySQL database.  
 Change your COM_PORT and BAUD_RATES to start using.  
